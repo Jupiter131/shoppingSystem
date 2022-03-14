@@ -1,0 +1,6 @@
+export const ADD_USER = 'add_user'
+export const UPDATE_COLLECTION = 'update_collection'
+export const ADD_COUNTER = 'add_counter'
+export const ADD_TO_CART = 'add_to_cart'
+export const DELETE_TO_CART = 'delete_to_cart'
+export const CHANGE_TO_CART = 'change_to_cart'
